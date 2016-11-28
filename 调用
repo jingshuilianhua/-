@@ -1,0 +1,20 @@
+#include <stdio.h>
+void main ()
+{
+int a[9],i;
+printf("");
+for(;;)
+{scanf("",);}
+printf("",);
+}
+
+int countN(int array[],int n)
+{
+int i,countN=0;
+for(i=0;i<=n;i++)
+{
+if(array[i]<0)
+countN++;
+}
+return countN;
+}
